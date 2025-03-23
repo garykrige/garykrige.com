@@ -62,7 +62,7 @@ customCSS = []
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
-  url = "https://github.com/github/"
+  url = "https://github.com/garykrige"
 
 # Menu links
 [[menu.main]]
