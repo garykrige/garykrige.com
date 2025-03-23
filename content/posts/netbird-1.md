@@ -1,7 +1,7 @@
 +++ 
 date = 2025-03-23T16:57:18+01:00
 title = "Implementing Zero Trust Security at Home—Part 1: Introduction to Zero Trust Networking and NetBird"
-tags = [selfhosting]
+tags = ["selfhosting"]
 externalLink = ""
 series = ["netbird"]
 +++
